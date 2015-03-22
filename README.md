@@ -4,7 +4,6 @@ Coursera "Getting and Cleaning Data" - Course Project
 Course project deliverables for the Coursera course [Getting and Cleaning Data](https://www.coursera.org/course/getdata)
 
 ## Instructions
-===============
 
 1. Source the script `run_analysis.R`.
 2. When sourced, the script checks if the required R packages are available and proceeds to install them if they are not found
