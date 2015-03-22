@@ -33,4 +33,6 @@ In case the Samsung data is already unzipped and directory with the dataset is a
  called straight away, no need to call `download.data()`.
 
 
+## Cleaned dataset
 
+At the end processing, both raw and tidy datasets are written to disk into raw-dataset.txt and tidy-dataset.txt respectively under the current working directory.
